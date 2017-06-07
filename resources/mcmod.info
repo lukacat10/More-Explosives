@@ -1,0 +1,18 @@
+[
+{
+  "modid" : "MoreExplosives",
+  "name" : "More Explosives",
+  "version" : "3.7",
+  "url": "http://bit.ly/MoreExplosivesMod",
+  "authors":
+  [
+    "NikolaiTheEpicGenius"
+  ],
+  "description": "This mod adds many new explosives to minecraft!",
+  "logoFile" : "",
+  "updateUrl" : "http://bit.ly/MoreExplosivesMod",
+  "screenshots":
+  [
+  ]
+}
+]
